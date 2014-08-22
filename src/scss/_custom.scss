@@ -1,0 +1,141 @@
+/* ==========================================================================
+   Custom
+   ========================================================================== */
+
+body {
+  background-color: #EAE2D7;
+  font-size: 13px;
+}
+
+.custom-container{
+  padding: 30px;
+  max-width: 750px;
+}
+
+.header-title {
+  background-color: #F42464;
+  border-radius: 10px 10px 0px 0px; 
+}
+.header-left{
+  background-image: url('../img/top-separator.png');
+  background-repeat: no-repeat;
+  background-position: right; 
+}
+.separator{
+ background-image: url('../img/bottom-separator.png');
+  background-repeat: no-repeat;
+  background-position: right;  
+}
+.main-body{
+  background-color: #fff;
+  border-radius: 0px 0px 10px 10px; 
+  -webkit-border-radius: 0px 0px 10px 10px; 
+  -moz-border-radius: 0px 0px 10px 10px; 
+  border-radius: 0px 0px 10px 10px; 
+  box-shadow: 3px 3px 3px #DAD1C6;
+  border-top: 2px solid #DAD1C6;
+}
+.title-par{
+  color: #fff;
+  margin-top: 25px;
+  height: 30px;
+  font-size: 15px;
+  text-shadow: 0px -1px 0px rgba(145, 150, 150, 1);
+  font-weight: 700;
+  }
+  .title-main-body{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 700;
+  }
+  .photo-text {
+    line-height: 25px;
+    color: #A49682;
+    margin-top: -7px;
+  }
+.more-text{
+  color: #F42464;
+}
+.arrow{
+  margin-left: 5px;
+}
+/* ==========================================================================
+   Classes for the news area
+   ========================================================================== */
+
+   /* follow us
+   ========================================================================== */
+
+.custom-container2{
+  padding: 15px;
+  max-width: 400px;
+  border-radius: 10px 10px 10px 10px; 
+  -webkit-border-radius: 10px 10px 10px 10px; 
+  -moz-border-radius: 10px 10px 10px 10px; 
+  border-radius: 10px 10px 10px 10px; 
+  background-color: #fff;
+  box-shadow: 3px 3px 3px #DAD1C6;  
+}
+.container-text {
+  color: #E61052;
+  margin-top: 5px;
+  height: 25px;
+  font-size: 15px;
+  font-weight: 700;
+  
+
+}
+.dots {
+  background-image: url('../img/Vertical-dots.png');
+  background-repeat: repeat-x;
+  background-position: bottom;    
+}
+.social-txt{
+  margin-top: 20px;
+  color: #A49682;
+}
+.social-img {
+  margin-right: 5px;
+}
+/* Randomly slected
+   ========================================================================== */
+.custom-container3 {
+   padding: 15px;
+  max-width: 400px;
+  border-radius: 10px 10px 10px 10px; 
+  -webkit-border-radius: 10px 10px 10px 10px; 
+  -moz-border-radius: 10px 10px 10px 10px; 
+  border-radius: 10px 10px 10px 10px; 
+  background-color: #fff;
+  box-shadow: 3px 3px 3px #DAD1C6;  
+  margin-top: 20px;
+}
+.container2-text{
+ margin-top: 5px; 
+}
+.arrows{
+  margin-right: 15px;
+}
+/* find us
+   ========================================================================== */
+.findus-txt-bold{
+ color: #A49682; 
+ font-weight: 700;
+ margin: 20px 0 1px;
+}
+.findus-txt{
+ color: #A49682; 
+ margin: 0 0 1px;
+}
+ .custom-container4{
+ padding: 15px;
+  max-width: 400px;
+  border-radius: 10px 10px 10px 10px; 
+  -webkit-border-radius: 10px 10px 10px 10px; 
+  -moz-border-radius: 10px 10px 10px 10px; 
+  border-radius: 10px 10px 10px 10px; 
+  background-color: #fff;
+  box-shadow: 3px 3px 3px #DAD1C6;  
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
